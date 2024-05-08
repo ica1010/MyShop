@@ -21,4 +21,4 @@ env
 *.ntvs*
 *.njsproj
 *.sln
-*.s
+*.sw?
