@@ -7,7 +7,7 @@ pluginManagement {
         return flutterSdkPath
     }()
 
-    includeBuild("$flutterSdkPath/packages/flutter_tools/gradle")
+    includeBuild('/home/ghislin/Téléchargements/android-studio-2023.3.1.18-linux/android-studio/bin/flutter/packages/flutter_tools/gradle')
 
     repositories {
         google()
